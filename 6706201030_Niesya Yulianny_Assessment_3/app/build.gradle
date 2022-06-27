@@ -8,7 +8,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "org.d3if4081.ass1"
+        applicationId "org.d3if1030.converterjarak"
         minSdk 21
         targetSdk 32
         versionCode 1
